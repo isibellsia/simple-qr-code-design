@@ -18,12 +18,13 @@ main {
 img{
     border-radius: 10px;
 }
-h3{
+h4{
     margin: 0;
     margin-top: 24px;
     text-align: center;
     text-wrap: balance;
     color: hsl(218, 44%, 22%);
+    font-weight:800;
 }
 p{
     text-align: center;
